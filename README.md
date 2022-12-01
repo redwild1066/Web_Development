@@ -2,23 +2,23 @@
 
 ## Introduction :
 
-Web development refers to the creating, building, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. 
+Web development refers to the creating, building, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. <br><br><br>
 
 
 ### The word Web Development is made up of two words, that is: <br>
 
 Web: It refers to websites, web pages or anything that works over the internet.<br>
-Development: It refers to building the application from scratch. <br>
+Development: It refers to building the application from scratch. <br><br><br>
 
 
 #### Web Development can be classified into two ways:
 
 Frontend Development<br>
- Backend Development<br>
+ Backend Development<br><br>
 
 
 #### Frontend Development
-The part of a website that the user interacts directly is termed as front end. It is also referred to as the ‘client side’ of the application.
+The part of a website that the user interacts directly is termed as front end. It is also referred to as the ‘client side’ of the application.<br><br>
 
 ### Frontend Roadmap:Frontend Development Roadmap<br>
 <p> 
@@ -29,6 +29,8 @@ Bootstrap: Bootstrap is a free and open-source tool collection for creating resp
 
 <p> Bootstrap 4<br>
 Bootstrap 5</p> 
+
+
 ###  Frontend Frameworks and Libraries:
 
 AngularJS <br>
@@ -39,4 +41,4 @@ Bootstrap<br>
 Material UI<br>
 Tailwind CSS<br>
 jQuery UI<br>
-Some other libraries and frameworks are: Handlebar.js Backbone.js, Ember.js etc.<br>
+Some other libraries and frameworks are: Handlebar.js Backbone.js, Ember.js etc.<br><br><br>
